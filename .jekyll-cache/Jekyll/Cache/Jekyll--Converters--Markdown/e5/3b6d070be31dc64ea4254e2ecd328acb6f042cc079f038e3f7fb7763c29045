@@ -1,0 +1,139 @@
+I"J
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/boris.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/boris.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/cat.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/cat.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/jesse.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/jesse.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/oilpainting.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/oilpainting.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!-- this is for the lightbox -->
+<script type="text/javascript" src="/js/lightbox.js"></script>
+
+<link rel="stylesheet" href="/css/lightbox.css" />
+
+:ET
